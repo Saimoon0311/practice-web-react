@@ -1,0 +1,14 @@
+.container-fluid{
+          justify-content: center;
+          /* height: 100vh; */
+}
+.d-block{
+          max-width: 900px;
+          height: 700px;
+          margin: auto;
+}
+@media (max-width: 600px){
+          img{
+                    height: 100px;
+          }
+}
